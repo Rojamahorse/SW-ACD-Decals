@@ -1,6 +1,6 @@
-SW_factions
+SW_decals
 {
-	Folders = ["sw_decals"]
+	Folders = ["sw_decals_64", "sw_decals_128", "sw_decals_256", "sw_decals_other"]
 	NameKey = "DecalGroups/sw_decals"
 	Icon
 	{
@@ -12,6 +12,7 @@ SW_factions
 		}
 	}
 }
+/*
 SW_adv_shapes
 {
 	Folders = ["sw_adv_shapes", "sw_shading", "sw_special", "sw_shading_Lg", "sw_adv_shapes_Lg"]
@@ -26,3 +27,4 @@ SW_adv_shapes
 		}
 	}
 }
+*/
