@@ -1,6 +1,6 @@
 ID = SW.2.StarWarsDecals
 Name = "Star Wars: ACD Decals"
-Version = 1.0.0
+Version = 1.0.1
 CompatibleGameVersions = ["0.24.0","0.23.0"]
 ModifiesGameplay = false
 Author = "Rojamahorse, SW:ACD DevTeam"
