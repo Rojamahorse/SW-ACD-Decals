@@ -1,6 +1,6 @@
 SW_decals
 {
-	Folders = ["sw_decals_other","sw_decals_512","sw_decals_384","sw_decals_256","sw_decals_192","sw_decals_128","sw_decals_64"]
+	Folders = ["sw_decals_other","sw_decals_512","sw_decals_384","sw_decals_256","sw_decals_192","sw_decals_128","sw_decals_64"] // Last folder shows up first in the list, then alphabetical sort order
 	NameKey = "DecalGroups/sw_decals"
 	Icon
 	{
@@ -15,7 +15,7 @@ SW_decals
 
 SW_adv_shapes
 {
-	Folders = ["sw_shading_Lg","sw_shading","sw_adv_shapes_Lg","sw_adv_shapes","sw_special","sw_acd_originals"]
+	Folders = ["sw_shading_Lg","sw_shading","sw_adv_shapes_Lg","sw_adv_shapes","sw_special","sw_acd_originals"] // Last folder shows up first in the list, then alphabetical sort order
 	NameKey = "DecalGroups/sw_adv_shapes"
 	Icon
 	{
