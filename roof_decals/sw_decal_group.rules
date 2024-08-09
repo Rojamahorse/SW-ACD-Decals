@@ -61,7 +61,7 @@ SW_decals_lg
 
 SW_adv_shapes
 {
-	Folders = ["sw_colors","sw_shading_Lg","sw_shading","sw_adv_shapes_Lg","sw_adv_shapes","sw_special","sw_acd_originals"] // Last folder shows up first in the list, then alphabetical sort order
+	Folders = ["sw_colors","sw_adv_shapes_Lg","sw_adv_shapes","sw_special","sw_acd_originals"] // Last folder shows up first in the list, then alphabetical sort order
 	NameKey = "DecalGroups/sw_adv_shapes"
 	Icon
 	{
@@ -74,3 +74,47 @@ SW_adv_shapes
 	}
 }
 
+SW_shade_simple
+{
+	Folders = ["sw_shade_25","sw_shade_50","sw_shade_75","sw_shade_simple"] // Last folder shows up first in the list, then alphabetical sort order
+	NameKey = "DecalGroups/sw_shade_simple"
+	Icon
+	{
+		Texture
+		{
+			File = "sw_adv_paints_alt.png"
+			MipLevels = 2
+			SampleMode = Linear
+		}
+	}
+}
+
+SW_shade_combination
+{
+	Folders = ["sw_shade_combination"] // Last folder shows up first in the list, then alphabetical sort order
+	NameKey = "DecalGroups/sw_shade_combination"
+	Icon
+	{
+		Texture
+		{
+			File = "sw_adv_paints_alt.png"
+			MipLevels = 2
+			SampleMode = Linear
+		}
+	}
+}
+
+SW_fade_shapes
+{
+	Folders = ["sw_shading","sw_shading_Lg"] // Last folder shows up first in the list, then alphabetical sort order
+	NameKey = "DecalGroups/sw_fade_shapes"
+	Icon
+	{
+		Texture
+		{
+			File = "sw_adv_paints_alt.png"
+			MipLevels = 2
+			SampleMode = Linear
+		}
+	}
+}
