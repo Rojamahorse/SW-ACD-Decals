@@ -1,7 +1,37 @@
 SW_decals
 {
-	Folders = ["sw_decals_other","sw_decals_512","sw_decals_384","sw_decals_256","sw_decals_192","sw_decals_128","sw_decals_64"] // Last folder shows up first in the list, then alphabetical sort order
+	Folders = ["sw_decals_64"] // Last folder shows up first in the list, then alphabetical sort order
 	NameKey = "DecalGroups/sw_decals"
+	Icon
+	{
+		Texture
+		{
+			File = "sw_decal_group.png"
+			MipLevels = 2
+			SampleMode = Linear
+		}
+	}
+}
+
+SW_decals_med
+{
+	Folders = ["sw_decals_192","sw_decals_128"] // Last folder shows up first in the list, then alphabetical sort order
+	NameKey = "DecalGroups/sw_decals_med"
+	Icon
+	{
+		Texture
+		{
+			File = "sw_decal_group.png"
+			MipLevels = 2
+			SampleMode = Linear
+		}
+	}
+}
+
+SW_decals_large
+{
+	Folders = ["sw_decals_other","sw_decals_512","sw_decals_384","sw_decals_256"] // Last folder shows up first in the list, then alphabetical sort order
+	NameKey = "DecalGroups/sw_decals_large"
 	Icon
 	{
 		Texture
