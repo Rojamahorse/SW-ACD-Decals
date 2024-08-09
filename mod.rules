@@ -22,7 +22,10 @@ Actions
 
 		ManyToAdd
 		[
-			&<roof_decals/sw_decal_group.rules>/SW_decals
+			//&<roof_decals/sw_decal_group.rules>/SW_decals
+			&<roof_decals/sw_decal_group.rules>/SW_decals_sm
+			&<roof_decals/sw_decal_group.rules>/SW_decals_med
+			&<roof_decals/sw_decal_group.rules>/SW_decals_lg
 			&<roof_decals/sw_decal_group.rules>/SW_adv_shapes
 		]
 	}

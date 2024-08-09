@@ -1,7 +1,10 @@
 
 DecalGroups
 {
-	sw_decals = "Star Wars Faction Decals"
+	//sw_decals = "Star Wars Faction Decals"
+	swdecalssm = "Star Wars Faction Decals (Small)"
+	swdecalsmed = "Star Wars Faction Decals (Medium)"
+	swdecalslg = "Star Wars Faction Decals (Large)"
 	sw_adv_shapes = "Advanced Gradients, Shadows, & Shapes"
 }
 
