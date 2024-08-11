@@ -6,6 +6,7 @@ ModifiesGameplay = false
 Author = "Rojamahorse, SW:ACD DevTeam"
 Logo = "ModLogo.png"
 Description = "<b>Dive into the heart of the galaxy with the <yellow>Star Wars: ACD Decals Add-on</yellow>!</b> \n\nThis collection features a vast array of <red>iconic symbols</red>, <green>emblems</green>, and <blue>insignias</blue> from across the Star Wars universe. Adorn your starships with the legendary <gray>Rebel Alliance Starbird</gray>, the powerful <black>Imperial Crest</black>, or the enigmatic <magenta>Sith Empire markings</magenta>, and many more. \n\nPerfect for commanders eager to showcase their allegiance, intimidate their enemies, or add a personal touch to their fleet. Whether you align with the <cyan>Light Side</cyan> or the <orange>Dark Side</orange>, these decals provide a unique way to express your Star Wars fandom. \n\n<b>Enhance your Cosmoteer experience with these galactic masterpieces, a tribute to the creativity and passion of Star Wars enthusiasts!</b> \n\n<b>Special Thanks to:</b> Star Wars Fan Community. \n\n<orange><b>Important:</b> This mod is an extension of <yellow>Star Wars: A Cosmos Divided: Factions</yellow> and is a prerequisite for its use.</orange>"
+StringsFolder = "strings"
 
 Actions
 [
@@ -29,5 +30,15 @@ Actions
 			&<roof_decals/sw_decal_group.rules>/SW_adv_shapes
 		]
 	}
-	
+	{
+		Action = AddMany
+		AddTo = "<ships/terran/terran.rules>/Terran/Roofs/RoofTexturesFolders"
+
+		CreateIfNotExisting = true
+
+		ManyToAdd
+		[
+			"sw_roof_textures"
+		]
+	}	
 ]
