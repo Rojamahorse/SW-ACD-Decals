@@ -61,7 +61,7 @@ SW_decals_lg
 
 SW_adv_shapes
 {
-	Folders = ["sw_colors","sw_shading_Lg","sw_shading","sw_adv_shapes_Lg","sw_adv_shapes","sw_special","sw_acd_originals"] // Last folder shows up first in the list, then alphabetical sort order
+	Folders = ["sw_colors","sw_shading_Lg","sw_shading","sw_adv_shapes_Lg","sw_adv_shapes","sw_shapes_patterns","sw_shapes_curves","sw_shapes_diagnols","sw_shapes_rectangles","sw_special","sw_shades_75","sw_shades_50","sw_shades_25","sw_gradients","sw_shade_lines","sw_acd_originals"] // Last folder shows up first in the list, then alphabetical sort order
 	NameKey = "DecalGroups/sw_adv_shapes"
 	Icon
 	{
