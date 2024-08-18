@@ -28,6 +28,8 @@ Actions
 			&<roof_decals/sw_decal_group.rules>/SW_decals_med
 			&<roof_decals/sw_decal_group.rules>/SW_decals_lg
 			&<roof_decals/sw_decal_group.rules>/SW_adv_shapes
+			&<roof_decals/sw_decal_group.rules>/SW_adv_shades
+			&<roof_decals/sw_decal_group.rules>/SW_adv_fades_gradients
 		]
 	}
 	{
