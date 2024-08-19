@@ -24,12 +24,13 @@ Actions
 		ManyToAdd
 		[
 			//&<roof_decals/sw_decal_group.rules>/SW_decals
-			&<roof_decals/sw_decal_group.rules>/SW_decals_sm
-			&<roof_decals/sw_decal_group.rules>/SW_decals_med
-			&<roof_decals/sw_decal_group.rules>/SW_decals_lg
 			&<roof_decals/sw_decal_group.rules>/SW_adv_shapes
 			&<roof_decals/sw_decal_group.rules>/SW_adv_shades
 			&<roof_decals/sw_decal_group.rules>/SW_adv_fades_gradients
+			//&<roof_decals/sw_decal_group.rules>/SWACD_originals
+			&<roof_decals/sw_decal_group.rules>/SW_decals_sm
+			&<roof_decals/sw_decal_group.rules>/SW_decals_med
+			&<roof_decals/sw_decal_group.rules>/SW_decals_lg
 		]
 	}
 	{
