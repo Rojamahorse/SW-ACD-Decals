@@ -61,7 +61,7 @@ SW_decals_lg
 
 SW_adv_shapes
 {
-	Folders = ["sw_shapes_patterns","sw_adv_shapes_Lg","sw_shapes_lg","sw_adv_shapes","sw_shapes_curves","sw_shapes_diagonals","sw_shapes_rectangles","sw_acd_originals"] // Last folder shows up first in the list, then alphabetical sort order
+	Folders = ["sw_shapes_patterns","sw_adv_shapes_Lg","sw_shapes_lg","sw_adv_shapes","sw_shapes_curves","sw_shapes_diagonals","sw_shapes_rectangles_25","sw_shapes_rectangles_50","sw_shapes_rectangles_75","sw_shapes_rectangles","sw_acd_originals"] // Last folder shows up first in the list, then alphabetical sort order
 	NameKey = "DecalGroups/sw_adv_shapes"
 	Icon
 	{
@@ -76,7 +76,7 @@ SW_adv_shapes
 
 SW_adv_shades
 {
-	Folders = ["sw_shades_lg","sw_shades_curves_25","sw_shades_curves_50","sw_shades_curves_75","sw_shades_diagonals_25","sw_shades_diagonals_50","sw_shades_diagonals_75","sw_shades_rectangles_25","sw_shades_rectangles_50","sw_shades_rectangles_75","sw_shades_simple"] // Last folder shows up first in the list, then alphabetical sort order
+	Folders = ["sw_shades_lg","sw_shades_curves_25","sw_shades_curves_50","sw_shades_curves_75","sw_shades_curves_10_100","sw_shades_diagonals_25","sw_shades_diagonals_50","sw_shades_diagonals_75","sw_shades_diagonals_10_100","sw_shades_rectangles_25","sw_shades_rectangles_50","sw_shades_rectangles_75","sw_shades_rectangles_10_100","sw_shades_simple"] // Last folder shows up first in the list, then alphabetical sort order
 	NameKey = "DecalGroups/sw_adv_shades"
 	Icon
 	{
