@@ -61,7 +61,8 @@ SW_decals_lg
 
 SW_adv_shapes
 {
-	Folders = ["sw_shapes_patterns","sw_adv_shapes_Lg","sw_shapes_lg","sw_adv_shapes","sw_shapes_curves","sw_shapes_diagonals","sw_shapes_rectangles_25","sw_shapes_rectangles_50","sw_shapes_rectangles_75","sw_shapes_rectangles","sw_acd_originals"] // Last folder shows up first in the list, then alphabetical sort order
+	Folders = [ "sw_shapes","sw_shapes/sw_shapes_patterns","sw_shapes/sw_shapes_curves","sw_shapes/sw_shapes_curves/Shape_Brightness_5","sw_shapes/sw_shapes_curves/Shape_Brightness_10","sw_shapes/sw_shapes_curves/Shape_Brightness_20","sw_shapes/sw_shapes_curves/Shape_Brightness_25","sw_shapes/sw_shapes_curves/Shape_Brightness_50","sw_shapes/sw_shapes_curves/Shape_Brightness_100","sw_shapes/sw_shapes_diagonals","sw_shapes/sw_shapes_diagonals/Shape_Brightness_25","sw_shapes/sw_shapes_diagonals/Shape_Brightness_50","sw_shapes/sw_shapes_diagonals/Shape_Brightness_70","sw_shapes/sw_shapes_diagonals/Shape_Brightness_80","sw_shapes/sw_shapes_diagonals/Shape_Brightness_90","sw_shapes/sw_shapes_diagonals/Shape_Brightness_100","sw_shapes/sw_shapes_rectangles","sw_shapes/sw_shapes_rectangles/Shape_Brightness_5","sw_shapes/sw_shapes_rectangles/Shape_Brightness_25","sw_shapes/sw_shapes_rectangles/Shape_Brightness_50","sw_shapes/sw_shapes_rectangles/Shape_Brightness_70","sw_shapes/sw_shapes_rectangles/Shape_Brightness_100"]
+	//Folders = ["sw_shapes_patterns","sw_adv_shapes_Lg","sw_shapes_lg","sw_adv_shapes","sw_shapes_curves","sw_shapes_diagonals","sw_shapes_rectangles_25","sw_shapes_rectangles_50","sw_shapes_rectangles_75","sw_shapes_rectangles","sw_acd_originals"] // Last folder shows up first in the list, then alphabetical sort order
 	NameKey = "DecalGroups/sw_adv_shapes"
 	Icon
 	{
@@ -76,7 +77,8 @@ SW_adv_shapes
 
 SW_adv_shades
 {
-	Folders = ["sw_shades_lg","sw_shades_curves_25","sw_shades_curves_50","sw_shades_curves_75","sw_shades_curves_10_100","sw_shades_diagonals_25","sw_shades_diagonals_50","sw_shades_diagonals_75","sw_shades_diagonals_10_100","sw_shades_rectangles_25","sw_shades_rectangles_50","sw_shades_rectangles_75","sw_shades_rectangles_10_100","sw_shades_simple"] // Last folder shows up first in the list, then alphabetical sort order
+	Folders = ["sw_shades","sw_shades/curves","sw_shades/curves/20_80","sw_shades/curves/10_20","sw_shades/curves/10_80","sw_shades/curves/10_100","sw_shades/curves/100_20","sw_shades/curves/100_80","sw_shades/diagonals","sw_shades/diagonals/0_20", "sw_shades/diagonals/10_80","sw_shades/diagonals/20_0","sw_shades/diagonals/20_80","sw_shades/diagonals/20_100","sw_shades/diagonals/50_70","sw_shades/diagonals/80_100", "sw_shades/diagonals/100_20","sw_shades/diagonals/100_30", "sw_shades/diagonals/100_70", "sw_shades/diagonals/100_80", "sw_shades/diagonals/100_100", "sw_shades/rectangles","sw_shades/rectangles/10_20","sw_shades/rectangles/10_80","sw_shades/rectangles/10_100","sw_shades/rectangles/20_80", "sw_shades/rectangles/30_30","sw_shades/rectangles/100_20","sw_shades/rectangles/100_80"]
+	//Folders = ["sw_shades_lg","sw_shades_curves_25","sw_shades_curves_50","sw_shades_curves_75","sw_shades_curves_10_100","sw_shades_diagonals_25","sw_shades_diagonals_50","sw_shades_diagonals_75","sw_shades_diagonals_10_100","sw_shades_rectangles_25","sw_shades_rectangles_50","sw_shades_rectangles_75","sw_shades_rectangles_10_100","sw_shades_simple"] // Last folder shows up first in the list, then alphabetical sort order
 	NameKey = "DecalGroups/sw_adv_shades"
 	Icon
 	{
@@ -91,7 +93,7 @@ SW_adv_shades
 
 SW_adv_fades_gradients
 {
-	Folders = ["sw_colors","sw_special","sw_fades_lg","sw_blurs_lg","sw_blurs_curves","sw_blurs_diagonals","sw_blurs_rectangles","sw_gradients", "sw_shade_lines"] // Last folder shows up first in the list, then alphabetical sort order
+	Folders = ["sw_fades_gradients_lines","sw_colors/Shape_Other_Colors_4","sw_colors/Shape_Other_Colors_2","sw_colors","sw_blurs_lg","sw_blurs_curves","sw_blurs_diagonals","sw_blurs_rectangles","sw_special","sw_fades_gradients_lines/sw_fades_lg", "sw_fades_gradients_lines/sw_gradients","sw_fades_gradients_lines/sw_fades_lg/Shape_Brightness_5","sw_fades_gradients_lines/sw_gradients/Shape_Brightness_5", "sw_fades_gradients_lines/sw_gradients/Shape_Brightness_10","sw_fades_gradients_lines/sw_fades_lg/Shape_Brightness_20","sw_fades_gradients_lines/sw_gradients/Shape_Brightness_20","sw_fades_gradients_lines/sw_fades_lg/Shape_Brightness_25","sw_fades_gradients_lines/sw_gradients/Shape_Brightness_25","sw_fades_gradients_lines/sw_fades_lg/Shape_Brightness_50","sw_fades_gradients_lines/sw_gradients/Shape_Brightness_50", "sw_fades_gradients_lines/sw_fades_lg/Shape_Brightness_70","sw_fades_gradients_lines/sw_gradients/Shape_Brightness_70","sw_fades_gradients_lines/sw_gradients/Shape_Brightness_80","sw_fades_gradients_lines/sw_gradients/Shape_Brightness_90","sw_fades_gradients_lines/sw_fades_lg/Shape_Brightness_100", "sw_fades_gradients_lines/sw_gradients/Shape_Brightness_100","sw_fades_gradients_lines/sw_shade_lines"]
 	NameKey = "DecalGroups/sw_adv_fades"
 	Icon
 	{
