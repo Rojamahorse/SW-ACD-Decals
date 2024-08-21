@@ -1,7 +1,10 @@
-
 DecalGroups
 {
-	sw_decals = "Adesivos de facções de Star Wars"
-//	sw_adv_shapes = "Advanced Gradients, Shadows, & Shapes"
+	//sw_decals = "Emblemas de Facções de Star Wars"
+	swdecalssm = "SWACD: Emblemas de Facções (Pequeno)"
+	swdecalsmed = "SWACD: Emblemas de Facções (Médio)"
+	swdecalslg = "SWACD: Emblemas de Facções (Grande)"
+	sw_adv_shapes = "SWACD: Padrões e Formas Avançadas"
+	sw_adv_shades = "SWACD: Sombras Avançadas"
+	sw_adv_fades = "SWACD: Desvanecimentos, Gradientes e Texturas Avançados"
 }
-
