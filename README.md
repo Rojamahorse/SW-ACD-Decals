@@ -10,7 +10,8 @@ The Star Wars: ACD Decals Add-on is designed to bring an extra layer of Star War
 
 - **Extensive Decal Collection:** A wide range of iconic symbols, emblems, and insignias from the Star Wars universe.
 - **High-Quality Graphics:** Each decal is scaled with attention to detail, ensuring a visually impressive addition to your ships.
-- **Customization Options:** Availability in 64x, 128x, and 256x Sizess allows you to choose from various decals to express your allegiance to the Light Side or the Dark Side.
+- **Customization Options:** Availability in 64x, 128x, and 256x Sizes, conveniently separated into 3 different folders allows you to choose from various decals to express your allegiance to the Light Side or the Dark Side.
+- **NEW!!! Advanced Shapes, Shades, & Gradients:** Enjoy a comprehensive range of 3 additional new folders of advanced customization options for your ships.
 
 ## Special Thanks
 
