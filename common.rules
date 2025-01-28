@@ -1,0 +1,18 @@
+
+//Currently unused/not working :(
+CommonStuff
+{
+    OriginalDecalLayers = "&<./Data/cosmoteer.rules>/DecalLayers" // Capture the original value
+    AddedLayer = 1
+    ModifiedDecalLayers = ceil((&OriginalDecalLayers)+(&AddedLayer)) // Add 1 to the original value
+}
+
+
+/*
+CommonStuff
+{
+    BaseDecalLayers = "<./Data/cosmoteer.rules>/DecalLayers"
+    AddedLayers = [1]  // Using square brackets for defining arrays
+    DecalLayers = BaseDecalLayers + AddedLayers
+}
+*/

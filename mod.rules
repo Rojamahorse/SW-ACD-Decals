@@ -1,12 +1,14 @@
 ID = SW.2.StarWarsDecals
 Name = "Star Wars: ACD Decals"
-Version = 172.271
-CompatibleGameVersions = ["0.27.1","0.27.0"."0.26.0","0.25.0","0.24.0","0.23.2","0.23.3"]
+Version = 181.281
+CompatibleGameVersions = ["0.28.1","0.28.0","0.27.2","0.27.1e","0.27.1","0.27.0","0.26.2"]
 ModifiesGameplay = false
 Author = "Rojamahorse, SW:ACD DevTeam"
 Logo = "ModLogo.png"
 Description = "<b>Dive into the heart of the galaxy with the <yellow>Star Wars: ACD Decals Add-on</yellow>!</b> \n\nThis collection features a vast array of <red>iconic symbols</red>, <green>emblems</green>, and <blue>insignias</blue> from across the Star Wars universe. Adorn your starships with the legendary <gray>Rebel Alliance Starbird</gray>, the powerful <black>Imperial Crest</black>, or the enigmatic <magenta>Sith Empire markings</magenta>, and many more. \n\nPerfect for commanders eager to showcase their allegiance, intimidate their enemies, or add a personal touch to their fleet. Whether you align with the <cyan>Light Side</cyan> or the <orange>Dark Side</orange>, these decals provide a unique way to express your Star Wars fandom. \n\n<b>Enhance your Cosmoteer experience with these galactic masterpieces, a tribute to the creativity and passion of Star Wars enthusiasts!</b> \n\n<b>Special Thanks to:</b> Star Wars Fan Community. \n\n<orange><b>Important:</b> This mod is an extension of <yellow>Star Wars: A Cosmos Divided: Factions</yellow> and is a prerequisite for its use.</orange>"
 StringsFolder = "strings"
+
+BaseDecalLayers = (<./Data/cosmoteer.rules>/DecalLayers) + 1
 
 Actions
 [
@@ -43,5 +45,42 @@ Actions
 		[
 			"sw_roof_textures"
 		]
-	}	
+	}
+//	{	//0.28 Release
+//		Action = Overrides
+//		OverrideIn = "<cosmoteer.rules>"
+//		Overrides
+//		{
+//			DecalLayers = 4
+//		}
+//	}
+
+//{	//0.28 Release
+//	Action = Overrides
+//	OverrideIn = "<cosmoteer.rules>"
+//	Overrides
+//	{
+//		DecalLayers = &<common.rules>/CommonStuff/ModifiedDecalLayers
+//	}
+//}
+//{	//0.28 Release
+//	Action = Overrides
+//	OverrideIn = "<cosmoteer.rules>"
+//	CreateIfNotExisting = true
+//	Overrides
+//	{
+//		OriginalDecalLayers = &<common.rules>/CommonStuff/OriginalDecalLayers
+//	}
+//}
+//	{	//0.28 Release
+//		Action = Overrides
+//		OverrideIn = "<cosmoteer.rules>"
+//		Overrides
+//		{
+//			//DecalLayers = (&BaseDecalLayers) + 1
+//			DecalLayers = &<common.rules>/CommonStuff/BaseDecalLayers // ceil(&<common.rules>/CommonStuff/DecalLayers)
+//		}
+//	}
+
+
 ]
