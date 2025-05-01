@@ -1,10 +1,11 @@
 DecalGroups
 {
-	//sw_decals = "Emblèmes des Factions Star Wars"
-	swdecalssm = "SWACD: Emblèmes de Factions (Petit)"
-	swdecalsmed = "SWACD: Emblèmes de Factions (Moyen)"
-	swdecalslg = "SWACD: Emblèmes de Factions (Grand)"
-	sw_adv_shapes = "SWACD: Motifs et Formes Avancés"
-	sw_adv_shades = "SWACD: Nuances Avancées"
-	sw_adv_fades = "SWACD: Fondus, Dégradés et Textures Avancés"
+	//sw_decals = "Emblèmes des factions Star Wars"
+	swdecalssm = "SWACD: Emblèmes de factions (Petit)"
+	swdecalsmed = "SWACD: Emblèmes de factions (Moyen)"
+	swdecalslg = "SWACD: Emblèmes de factions (Grand)"
+	sw_adv_shapes = "SWACD: Motifs et formes avancés"
+	sw_adv_shades = "SWACD: Nuances avancées"
+	sw_adv_fades = "SWACD: Fondus, dégradés et textures avancés"
 }
+
