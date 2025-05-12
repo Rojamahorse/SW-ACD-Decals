@@ -14,6 +14,7 @@ SW_decals
 	}
 }
 */
+/*
 SW_decals_sm
 {
 	Folders = ["sw_decals_64"] // Last folder shows up first in the list, then alphabetical sort order
@@ -28,7 +29,9 @@ SW_decals_sm
 		}
 	}
 }
+*/
 
+/*
 SW_decals_med
 {
 	Folders = ["sw_decals_192","sw_decals_128"] // Last folder shows up first in the list, then alphabetical sort order
@@ -43,10 +46,11 @@ SW_decals_med
 		}
 	}
 }
+*/
 
 SW_decals_lg
 {
-	Folders = ["sw_decals_other","sw_decals_512","sw_decals_384","sw_decals_256"] // Last folder shows up first in the list, then alphabetical sort order
+	Folders = ["sw_decals_other","sw_decals_512","sw_decals_384","sw_decals_192","sw_decals_256"] // Last folder shows up first in the list, then alphabetical sort order
 	NameKey = "DecalGroups/swdecalslg"
 	Icon
 	{
@@ -105,3 +109,8 @@ SW_adv_fades_gradients
 		}
 	}
 }
+
+//Upgrades : .Data/roof_decals/roof_decals.rules
+//{
+//	//plain04 =    { ID="triangle_quarter"; Rot0Size=[1,1]; Rotation=2; /*Invert=true;*/ }
+//}

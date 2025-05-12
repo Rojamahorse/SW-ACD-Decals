@@ -1,7 +1,7 @@
 ID = SW.2.StarWarsDecals
 Name = "Star Wars: ACD Decals"
-Version = 182.282
-CompatibleGameVersions = ["0.28.2","0.28.0","0.27.2","0.27.1e","0.27.1","0.27.0","0.26.2"]
+Version = 190.290
+CompatibleGameVersions = ["0.29.0","0.28.2","0.28.0","0.27.2","0.27.1e","0.27.1","0.27.0","0.26.2"]
 ModifiesGameplay = false
 Author = "Rojamahorse, SW:ACD DevTeam"
 Logo = "ModLogo.png"
@@ -30,8 +30,8 @@ Actions
 			&<roof_decals/sw_decal_group.rules>/SW_adv_shades
 			&<roof_decals/sw_decal_group.rules>/SW_adv_fades_gradients
 			//&<roof_decals/sw_decal_group.rules>/SWACD_originals
-			&<roof_decals/sw_decal_group.rules>/SW_decals_sm
-			&<roof_decals/sw_decal_group.rules>/SW_decals_med
+			//&<roof_decals/sw_decal_group.rules>/SW_decals_sm
+			//&<roof_decals/sw_decal_group.rules>/SW_decals_med
 			&<roof_decals/sw_decal_group.rules>/SW_decals_lg
 		]
 	}
@@ -46,6 +46,14 @@ Actions
 			"sw_roof_textures"
 		]
 	}
+	//Decal Upgrades v29.0 Release
+	{
+		Action = AddMany
+		AddTo = "<./Data/roof_decals/roof_decals.rules>/Upgrades"
+        ManyToAdd = &<roof_decals/_decals_list.rules>/Upgrades
+		CreateIfNotExisting = true
+	}
+
 //	{	//0.28 Release
 //		Action = Overrides
 //		OverrideIn = "<cosmoteer.rules>"

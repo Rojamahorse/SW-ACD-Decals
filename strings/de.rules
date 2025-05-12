@@ -3,7 +3,7 @@ DecalGroups
 	//sw_decals = "Star Wars Fraktionsabzeichen"
 	swdecalssm = "SWACD: Fraktionsabzeichen (Klein)"
 	swdecalsmed = "SWACD: Fraktionsabzeichen (Mittel)"
-	swdecalslg = "SWACD: Fraktionsabzeichen (Groß)"
+	swdecalslg = "SWACD: Fraktionsabzeichen" //  (Groß)
 	sw_adv_shapes = "SWACD: Erweiterte Muster & Formen"
 	sw_adv_shades = "SWACD: Erweiterte Schattierungen"
 	sw_adv_fades = "SWACD: Erweiterte Überblendungen, Verläufe & Texturen"

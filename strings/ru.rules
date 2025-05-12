@@ -3,7 +3,7 @@ DecalGroups
 	//sw_decals = "Знаки Фракций Звёздных Войн"
 	swdecalssm = "SWACD: Знаки Фракций (Маленький)"
 	swdecalsmed = "SWACD: Знаки Фракций (Средний)"
-	swdecalslg = "SWACD: Знаки Фракций (Большой)"
+	swdecalslg = "SWACD: Знаки Фракций" // (Большой)
 	sw_adv_shapes = "SWACD: Продвинутые Узоры и Формы"
 	sw_adv_shades = "SWACD: Продвинутые Оттенки"
 	sw_adv_fades = "SWACD: Продвинутые Плавные Переходы, Градиенты и Текстуры"

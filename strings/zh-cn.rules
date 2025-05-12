@@ -3,7 +3,7 @@ DecalGroups
 	//sw_decals = "星球大战派系标志"
 	swdecalssm = "SWACD：派系标志（小）"
 	swdecalsmed = "SWACD：派系标志（中）"
-	swdecalslg = "SWACD：派系标志（大）"
+	swdecalslg = "SWACD：派系标志" //（大）
 	sw_adv_shapes = "SWACD：高级图案和形状"
 	sw_adv_shades = "SWACD：高级阴影"
 	sw_adv_fades = "SWACD：高级渐变、渐隐和纹理"

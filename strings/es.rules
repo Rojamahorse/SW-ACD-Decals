@@ -3,7 +3,7 @@ DecalGroups
 	//sw_decals = "Emblemas de Facciones de Star Wars"
 	swdecalssm = "SWACD: Emblemas de Facciones (Pequeño)"
 	swdecalsmed = "SWACD: Emblemas de Facciones (Mediano)"
-	swdecalslg = "SWACD: Emblemas de Facciones (Grande)"
+	swdecalslg = "SWACD: Emblemas de Facciones" //(Grande)
 	sw_adv_shapes = "SWACD: Patrones y Formas Avanzadas"
 	sw_adv_shades = "SWACD: Sombras Avanzadas"
 	sw_adv_fades = "SWACD: Desvanecidos, Gradientes y Texturas Avanzados"
