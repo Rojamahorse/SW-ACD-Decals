@@ -4671,8 +4671,8 @@ Upgrades
     { Old="Fade00-06";        		                        New={ ID="sw_acd_Fade00-06"; Rot0Size=[1,1]; /*Rotation=1;*/ /*FlipX=true;*/ /*FlipY=true;*/ /*Invert=true;*/ }; }
     { Old="Fade00a";          		                        New={ ID="sw_acd_Fade00a"; Rot0Size=[1,1]; /*Rotation=1;*/ /*FlipX=true;*/ /*FlipY=true;*/ /*Invert=true;*/ }; }
     { Old="Fade00c-01";       		                        New={ ID="sw_acd_Fade00c-01"; Rot0Size=[1,1]; /*Rotation=1;*/ /*FlipX=true;*/ /*FlipY=true;*/ /*Invert=true;*/ }; }
-//    { Old="Fade00d-01";  		                            New={ ID="sw_acd_Fade00d-01"; Rot0Size=[1,2]; /*Rotation=1;*/ /*FlipX=true;*/ /*FlipY=true;*/ /*Invert=true;*/ }; }
-//    { Old="Fade00d-02";  		                            New={ ID="sw_acd_Fade00d-02"; Rot0Size=[1,2]; /*Rotation=1;*/ /*FlipX=true;*/ /*FlipY=true;*/ /*Invert=true;*/ }; }
+    { Old="Fade00d-01";  		                            New={ ID="sw_acd_Fade00d-01"; Rot0Size=[1,2]; /*Rotation=1;*/ /*FlipX=true;*/ /*FlipY=true;*/ /*Invert=true;*/ }; }
+    { Old="Fade00d-02";  		                            New={ ID="sw_acd_Fade00d-02"; Rot0Size=[1,2]; /*Rotation=1;*/ /*FlipX=true;*/ /*FlipY=true;*/ /*Invert=true;*/ }; }
     { Old="Fade00d-03";  		                            New={ ID="sw_acd_Fade00d-03"; Rot0Size=[1,2]; /*Rotation=1;*/ /*FlipX=true;*/ /*FlipY=true;*/ /*Invert=true;*/ }; }
     { Old="Fade00d-04";  		                            New={ ID="sw_acd_Fade00d-04"; Rot0Size=[1,2]; /*Rotation=1;*/ /*FlipX=true;*/ /*FlipY=true;*/ /*Invert=true;*/ }; }
     { Old="Fade00d-05";               		                New={ ID="sw_acd_Fade00d-05"; Rot0Size=[1,2]; /*Rotation=1;*/ /*FlipX=true;*/ /*FlipY=true;*/ /*Invert=true;*/ }; }
@@ -4682,7 +4682,7 @@ Upgrades
     { Old="Fade00d-09";  		                            New={ ID="sw_acd_Fade00d-09"; Rot0Size=[1,2]; /*Rotation=1;*/ /*FlipX=true;*/ /*FlipY=true;*/ /*Invert=true;*/ }; }
     { Old="Fade00d-10";  		                            New={ ID="sw_acd_Fade00d-10"; Rot0Size=[1,2]; /*Rotation=1;*/ /*FlipX=true;*/ /*FlipY=true;*/ /*Invert=true;*/ }; }
     { Old="Fade00d-11";  		                            New={ ID="sw_acd_Fade00d-11"; Rot0Size=[1,2]; /*Rotation=1;*/ /*FlipX=true;*/ /*FlipY=true;*/ /*Invert=true;*/ }; }
-//    { Old="Fade00d-12";  		                            New={ ID="sw_acd_Fade00d-12"; Rot0Size=[1,2]; /*Rotation=1;*/ /*FlipX=true;*/ /*FlipY=true;*/ /*Invert=true;*/ }; }
+    { Old="Fade00d-12";  		                            New={ ID="sw_acd_Fade00d-12"; Rot0Size=[1,2]; /*Rotation=1;*/ /*FlipX=true;*/ /*FlipY=true;*/ /*Invert=true;*/ }; }
     { Old="Fade00d-13";  		                            New={ ID="sw_acd_Fade00d-13"; Rot0Size=[1,2]; /*Rotation=1;*/ /*FlipX=true;*/ /*FlipY=true;*/ /*Invert=true;*/ }; }
     { Old="Fade00d-14";  		                            New={ ID="sw_acd_Fade00d-14"; Rot0Size=[1,2]; /*Rotation=1;*/ /*FlipX=true;*/ /*FlipY=true;*/ /*Invert=true;*/ }; }
     { Old="Fade00d-15";  		                            New={ ID="sw_acd_Fade00d-15"; Rot0Size=[1,2]; /*Rotation=1;*/ /*FlipX=true;*/ /*FlipY=true;*/ /*Invert=true;*/ }; }
@@ -4843,9 +4843,9 @@ Upgrades
     { Old="Fade32-67";    		                            New={ ID="sw_acd_Fade32-67"; Rot0Size=[1,2]; /*Rotation=1;*/ /*FlipX=true;*/ /*FlipY=true;*/ /*Invert=true;*/ }; }
     { Old="Fade32-68";    		                            New={ ID="sw_acd_Fade32-68"; Rot0Size=[1,2]; /*Rotation=1;*/ /*FlipX=true;*/ /*FlipY=true;*/ /*Invert=true;*/ }; }
     { Old="Fade32-69";    		                            New={ ID="sw_acd_Fade32-69"; Rot0Size=[1,2]; /*Rotation=1;*/ /*FlipX=true;*/ /*FlipY=true;*/ /*Invert=true;*/ }; }
-//    { Old="Machines01";          		                    New={ ID="sw_acd_Machines01"; Rot0Size=[1,1]; /*Rotation=1;*/ /*FlipX=true;*/ /*FlipY=true;*/ /*Invert=true;*/ }; }
-//    { Old="Machines02";          		                    New={ ID="sw_acd_Machines02"; Rot0Size=[1,1]; /*Rotation=1;*/ /*FlipX=true;*/ /*FlipY=true;*/ /*Invert=true;*/ }; }
-//    { Old="Machines03";          		                    New={ ID="sw_acd_Machines03"; Rot0Size=[1,1]; /*Rotation=1;*/ /*FlipX=true;*/ /*FlipY=true;*/ /*Invert=true;*/ }; }
+    { Old="Machines01";          		                    New={ ID="sw_acd_Machines01"; Rot0Size=[1,1]; /*Rotation=1;*/ /*FlipX=true;*/ /*FlipY=true;*/ /*Invert=true;*/ }; }
+    { Old="Machines02";          		                    New={ ID="sw_acd_Machines02"; Rot0Size=[1,1]; /*Rotation=1;*/ /*FlipX=true;*/ /*FlipY=true;*/ /*Invert=true;*/ }; }
+    { Old="Machines03";          		                    New={ ID="sw_acd_Machines03"; Rot0Size=[1,1]; /*Rotation=1;*/ /*FlipX=true;*/ /*FlipY=true;*/ /*Invert=true;*/ }; }
     { Old="Machines04";          		                    New={ ID="sw_acd_Machines04"; Rot0Size=[1,1]; /*Rotation=1;*/ /*FlipX=true;*/ /*FlipY=true;*/ /*Invert=true;*/ }; }
     { Old="Machines05 (2)";      		                    New={ ID="sw_acd_Machines05"; Rot0Size=[1,1]; /*Rotation=1;*/ /*FlipX=true;*/ /*FlipY=true;*/ /*Invert=true;*/ }; }
     { Old="Machines05";          		                    New={ ID="sw_acd_Machines05"; Rot0Size=[1,1]; /*Rotation=1;*/ /*FlipX=true;*/ /*FlipY=true;*/ /*Invert=true;*/ }; }
