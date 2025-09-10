@@ -1,7 +1,7 @@
 ID = SW.2.StarWarsDecals
 Name = "Star Wars: ACD Decals"
-Version = 200.300
-CompatibleGameVersions = ["0.30.0","0.29.0","0.28.2","0.28.0","0.27.2","0.27.1e","0.27.1","0.27.0","0.26.2"]
+Version = 201.301
+CompatibleGameVersions = ["0.30.1","0.30.0","0.29.0","0.28.2","0.28.0","0.27.2","0.27.1e","0.27.1","0.27.0","0.26.2"]
 ModifiesGameplay = false
 Author = "Rojamahorse, SW:ACD DevTeam"
 Logo = "ModLogo.png"
